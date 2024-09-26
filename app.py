@@ -1,7 +1,7 @@
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "Your open API key goes here."
+os.environ["GROQ_API_KEY"] = "Your groq API key goes here."
 
 from routellm.controller import Controller
 
